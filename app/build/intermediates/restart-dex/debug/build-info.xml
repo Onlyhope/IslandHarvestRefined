@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="520511164380149" >
+
+    <task
+        name="javac"
+        duration="1298" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="420" />
+    <task
+        name="verifier"
+        duration="343" />
+
+    <artifact
+        location="C:\Users\Aaron\AndroidStudioProjects\IslandHarvestRefined\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="520511164380149" >
+        <artifact
+            location="C:\Users\Aaron\AndroidStudioProjects\IslandHarvestRefined\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
